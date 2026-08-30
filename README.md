@@ -47,7 +47,7 @@ The resistor, LED, and power wires were soldered onto the fabricated PCB.
 
 The finished board was connected to a battery pack and successfully powered the LED.
 
-![Powered PCB](images/powered_pcb.jpeg)
+![Powered PCB](images/powered_pcb.HEIC)
 
 ## What I Learned
 
