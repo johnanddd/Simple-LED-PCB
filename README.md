@@ -9,7 +9,7 @@ The goal was to learn the complete PCB design workflow from schematic capture an
 
 The completed board was assembled and tested using an external battery supply.
 
-![Powered PCB](images/powered_pcb.HEIC)
+![Powered PCB](images/powered_pcb.jpg)
 
 ## Circuit
 
