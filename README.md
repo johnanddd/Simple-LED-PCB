@@ -9,7 +9,7 @@ The goal was to learn the complete PCB design workflow from schematic capture an
 
 The completed board was assembled and tested using an external battery supply.
 
-![Powered PCB](images/powered_pcb.jpeg)
+![Powered PCB](images/powered_pcb.HEIC)
 
 ## Circuit
 
@@ -17,7 +17,7 @@ The circuit is a simple LED indicator powered through a 330 Ω current-limiting 
 
 ### Schematic
 
-![Schematic](images/schematic.png)
+![Schematic](images/schematic.PNG)
 
 ## PCB Design
 
@@ -25,23 +25,23 @@ The board was laid out and routed manually in KiCad.
 
 ### PCB Layout
 
-![PCB Layout](images/pcb_layout.png)
+![PCB Layout](images/pcb_layout.PNG)
 
 ### 3D Preview
 
-![3D Render](images/pcb_3d.png)
+![3D Render](images/pcb_3d.PNG)
 
 ## Fabricated Board
 
 After completing the PCB design and design rule checks, I generated the manufacturing files and had the board fabricated.
 
-![Bare PCB](images/bare_pcb.jpeg)
+![Bare PCB](images/bare_pcb.HEIC)
 
 ## Assembly
 
 The resistor, LED, and power wires were soldered onto the fabricated PCB.
 
-![Assembled PCB](images/assembled_pcb.jpeg)
+![Assembled PCB](images/assembled_pcb.HEIC)
 
 ## Testing
 
