@@ -41,7 +41,7 @@ After completing the PCB design and design rule checks, I generated the manufact
 
 The resistor, LED, and power wires were soldered onto the fabricated PCB.
 
-![Assembled PCB](images/assembled_pcb.HEIC)
+![Assembled PCB](images/assembled_pcb.jpg)
 
 ## Testing
 
