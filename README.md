@@ -35,7 +35,7 @@ The board was laid out and routed manually in KiCad.
 
 After completing the PCB design and design rule checks, I generated the manufacturing files and had the board fabricated.
 
-![Bare PCB](images/bare_pcb.HEIC)
+![Bare PCB](images/bare_pcb.jpg)
 
 ## Assembly
 
